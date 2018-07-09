@@ -1,5 +1,5 @@
 /*
- * GreenPotion.cpp
+ * IntegerType.cpp
  *
  *  Created on: Jul 7, 2018
  *      Author: Joel
